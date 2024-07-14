@@ -1,0 +1,1 @@
+alert("To paus, Please hover on the image");
